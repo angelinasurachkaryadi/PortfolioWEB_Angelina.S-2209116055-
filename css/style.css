@@ -396,7 +396,7 @@ transition: all .45s ease;
         height: 87vh;
     }
 }
-@media (max-width:920){
+@media (max-width:920px){
     .About{
         grid-template-columns: 1fr;
     }
